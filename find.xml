@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.test.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -31,5 +32,6 @@
     <mask>*graphql*</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
+    <mask>*.test.ts</mask>
   </component>
 </application>
