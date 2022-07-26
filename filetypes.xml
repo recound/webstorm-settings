@@ -4,6 +4,7 @@
       <mapping pattern=".browser.env.template" type=".env file" />
       <mapping pattern="Caddyfile" type="AUTO_DETECTED" />
       <mapping pattern="thoughts" type="AUTO_DETECTED" />
+      <mapping ext="pgsql" type="DBN-PSQL" />
       <mapping ext="deployment" type="Dockerfile" />
       <mapping pattern="broken_output" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
