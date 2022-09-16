@@ -1,5 +1,14 @@
 <application>
   <component name="StringManipulationState">
+    <option name="grepHistory">
+      <list>
+        <GrepSettings>
+          <option name="inverted" value="true" />
+          <option name="pattern" value="(358227632167554|359418747911916|SC02G413QQ6LT|SC02G413QQ6LT|SC02G413QQ6LT|SC4GT94K7XY|SDG2KHYHHP6|SVHK32R9GFM|SVHK32R9GFM)" />
+          <option name="regex" value="true" />
+        </GrepSettings>
+      </list>
+    </option>
     <option name="lastAction">
       <UniversalActionModel>
         <option name="actionClassName" value="osmedile.intellij.stringmanip.filter.RemoveDuplicateLinesAction" />
