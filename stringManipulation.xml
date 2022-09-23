@@ -11,7 +11,7 @@
     </option>
     <option name="lastAction">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.filter.RemoveDuplicateLinesAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToWordCapitalizedOrCamelCaseAction" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
