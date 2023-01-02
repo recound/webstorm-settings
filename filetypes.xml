@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".browser.env.template" type=".env file" />
       <mapping pattern="Caddyfile" type="AUTO_DETECTED" />
       <mapping pattern="thoughts" type="AUTO_DETECTED" />
       <mapping ext="pgsql" type="DBN-PSQL" />
@@ -22,6 +21,7 @@
       <removed_mapping ext="tf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".prettierignore" approved="true" type="Prettier File" />
+      <mapping pattern=".browser.env.template" type=".env file" />
     </extensionMap>
   </component>
 </application>
