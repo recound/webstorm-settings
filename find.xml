@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.as</mask>
+    <option name="FILE_MASK" value="!*.json" />
     <mask>*.mxml</mask>
     <mask>*.styl</mask>
     <mask>*.scss</mask>
@@ -35,5 +35,6 @@
     <mask>*api-test.ts</mask>
     <mask>*test.ts</mask>
     <mask>*test.tsx</mask>
+    <mask>!*.json</mask>
   </component>
 </application>
